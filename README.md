@@ -4,5 +4,9 @@
 2. [Автор](#автор)
 3. [Картина](#картинка)
 ```phyton
-print("HELLO wORLD")
+print("HELLO WORLD")
 ```
+
+
+
+![Пример фото](https://images.hdqwalls.com/download/mountain-reflections-3840x2400.jpg)
