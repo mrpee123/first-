@@ -9,4 +9,4 @@ print("HELLO WORLD")
 
 
 
-![Пример фото](https://images.hdqwalls.com/download/mountain-reflections-3840x2400.jpg)
+![Пример фото](https://lastfm.freetls.fastly.net/i/u/ar0/fc2233932ae0466cc6c957fede05fb9e.gif)
